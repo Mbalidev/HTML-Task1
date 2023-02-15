@@ -1,0 +1,26 @@
+body {
+    background-color: azure;
+}
+
+table{
+    width: 80pc;
+}
+
+.nav{
+    margin-top: 15px; 
+    margin-left: 50px;
+    margin-bottom: 15px; 
+    margin-right: 50px;
+
+}
+
+.nav a {
+    padding: 15px;
+    text-decoration: none;
+    color: plum;
+}
+
+.nav a:hover{
+    color: black;
+    background-color: plum;
+}
